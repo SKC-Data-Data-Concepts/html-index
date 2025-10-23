@@ -1,5 +1,5 @@
 # skc-portfolio
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -106,7 +106,7 @@
 
   <footer>
     <p>© 2025 Shana Campbell | SKC Data Concepts</p>
-    <p>Connect: <a href="mailto:shanacampbell93@gmail.com" style="color: cyan;">Email</a></p>
+    <p>Connect: <a href="mailto:shanacampbell93@gmail.com" style="color: cyan;"></a></p>
   </footer>
 </body>
 </html>
