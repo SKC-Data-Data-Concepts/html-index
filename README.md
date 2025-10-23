@@ -109,4 +109,10 @@
     <p>Connect: <a href="mailto:shanacampbell93@gmail.com" style="color: cyan;"></a></p>
   </footer>
 </body>
-</html>
+</html>html-index/
+├── index.html
+├── style.css
+├── projects/
+│   └── ...other projects
+└── assets/
+
