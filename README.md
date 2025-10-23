@@ -106,7 +106,7 @@
 
   <footer>
     <p>© 2025 Shana Campbell | SKC Data Concepts</p>
-    <p>Connect: <a href="mailto:youremail@example.com" style="color: cyan;">Email</a></p>
+    <p>Connect: <a href="mailto:shanacampbell93@gmail.com" style="color: cyan;">Email</a></p>
   </footer>
 </body>
 </html>
