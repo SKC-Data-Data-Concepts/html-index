@@ -39,19 +39,7 @@
       text-transform: uppercase;
       letter-spacing: 1px;
     }
-<div class="project">
-  <h3>🧠 Notion Website</h3>
-  <p>
-    All projects, Mission and direction of SKC Data Concepts — helping people use AI and digital tools for clarity, calm, and capability.
-  </p>
-  <p>
-    🔗 <a href="https://tame-eyelash-200.notion.site/Helping-ordinary-people-use-AI-digital-tools-for-clarity-calm-and-capability-290e5c60ebb7806ca335e5eaac1fe0c8" target="_blank">
-      Visit Notion Concept Page
-    </a>
-  </p>
-</div>
-    
-    .project {
+     .project {
       background: #141414;
       border: 1px solid #222;
       border-radius: 8px;
@@ -84,7 +72,17 @@
 
   <section id="projects">
     <h2>Projects</h2>
-
+<div class="project">
+  <h3>🧠 Notion Website</h3>
+  <p>
+    All projects, Mission and direction of SKC Data Concepts — helping people use AI and digital tools for clarity, calm, and capability.
+  </p>
+  <p>
+    🔗 <a href="https://tame-eyelash-200.notion.site/Helping-ordinary-people-use-AI-digital-tools-for-clarity-calm-and-capability-290e5c60ebb7806ca335e5eaac1fe0c8" target="_blank">
+      Visit Notion Concept Page
+    </a>
+  </p>
+</div>
     
 <div class="project">
   <h3>🔐 SKC Data Concepts Login Project Tracker</h3>
