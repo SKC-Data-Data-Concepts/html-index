@@ -1,76 +1,89 @@
-# skc-portfolio
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>SKC Data Concepts – Portfolio</title>
+  <title>SKC Data Concepts | Holy-Tech Portfolio</title>
   <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
     body {
-      background: #0b0b0b;
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background: radial-gradient(circle at 50% 10%, #0a0a0f, #000);
       color: #f5f5f5;
-      font-family: "Space Mono", monospace;
-      line-height: 1.6;
-      padding: 40px 20px;
-    }
-    header {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
       text-align: center;
-      margin-bottom: 50px;
+      padding: 2rem;
     }
-    header h1 {
+    h1 {
+      font-weight: 600;
       font-size: 2rem;
-      letter-spacing: 2px;
-      margin-bottom: 10px;
+      margin-bottom: 0.5rem;
+      background: linear-gradient(90deg, #7ef9ff, #a1a1ff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
     }
-    header p {
-      font-size: 1rem;
-      color: #ccc;
+    p {
+      font-weight: 300;
+      color: #cfcfcf;
+      max-width: 600px;
+      margin-bottom: 2rem;
     }
-    section {
-      max-width: 800px;
-      margin: 0 auto 60px;
+    .projects {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      width: 100%;
+      max-width: 500px;
     }
-    h2 {
-      border-bottom: 1px solid #333;
-      margin-bottom: 20px;
-      padding-bottom: 10px;
-      font-size: 1.2rem;
-      text-transform: uppercase;
-      letter-spacing: 1px;
+    .project-card {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 14px;
+      padding: 1rem 1.5rem;
+      transition: all 0.3s ease;
     }
-     .project {
-      background: #141414;
-      border: 1px solid #222;
-      border-radius: 8px;
-      padding: 20px;
-      margin-bottom: 30px;
-      transition: border-color 0.2s, transform 0.2s;
-    }
-    .project:hover {
-      border-color: cyan;
+    .project-card:hover {
+      background: rgba(255, 255, 255, 0.08);
       transform: scale(1.02);
+      border-color: rgba(255, 255, 255, 0.2);
     }
-    .project h3 {
-      margin-bottom: 10px;
-      color: cyan;
-    }
-    .project a {
-      color: cyan;
+    a {
+      color: #7ef9ff;
       text-decoration: none;
+      font-weight: 500;
+      display: inline-block;
+      margin-top: 0.3rem;
     }
-    .project a:hover { text-decoration: underline; }
     footer {
-      text-align: center;
-      font-size: 0.9rem;
-      color: #888;
-      margin-top: 60px;
+      margin-top: 3rem;
+      font-size: 0.8rem;
+      opacity: 0.6;
     }
   </style>
 </head>
+<body>
+  <h1>SKC Data Concepts</h1>
+  <p>Helping ordinary people use AI & digital tools for clarity, calm, and capability.</p>
 
-  <footer>
-    <p>© 2025 Shana Campbell | SKC Data Concepts</p>
-    <p>Connect: <a href="mailto:shanacampbell93@gmail.com" style="color: cyan;"></a></p>
-  </footer>
+  <div class="projects">
+    <div class="project-card">
+      <h2>🧠 Notion Website</h2>
+      <p>Your live Notion hub for digital clarity & AI empowerment.</p>
+      <a href="https://tame-eyelash-200.notion.site/Helping-ordinary-people-use-AI-digital-tools-for-clarity-calm-and-capability-290e5c60ebb7806ca335e5eaac1fe0c8?pvs=143" target="_blank">Visit Notion Site →</a>
+    </div>
 
+    <div class="project-card">
+      <h2>📊 Work & Data Concepts Portal</h2>
+      <p>Experimental Bolt-hosted app exploring structured data, project tracking, and digital flow.</p>
+      <a href="https://skcdcprojecttrack.bolt.host/" target="_blank">Open Portal →</a>
+    </div>
+
+    <div class="project-card">
+      <h2>🌌 Digital Art Portal</h2>
+      <p>A creative prototype exploring holy-tech design, sacred minimalism, and immersive visual portals.</p>
+      <a href="https://skc-portal-mv2w.bolt.host/" target="_blank">E_
