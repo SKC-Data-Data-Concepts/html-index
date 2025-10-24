@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -68,7 +68,7 @@
 </head>
 <body>
   <h1>SKC Data Concepts</h1>
-  <p>Helping ordinary people use AI & digital tools for clarity, calm, and capability.</p>
+  <p>Helping ordinary people use AI & digital tools for clarity, calm, and capability.I’m building a portfolio that showcases my growing skills in coding, design, and digital systems. My work focuses on how technology, creativity, and clear communication can come together to build functional, human-centered digital tools — from web projects to data-driven concepts and digital marketing ideas.</p>
 
   <div class="projects">
     <div class="project-card">
