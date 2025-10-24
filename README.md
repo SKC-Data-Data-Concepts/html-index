@@ -39,6 +39,18 @@
       text-transform: uppercase;
       letter-spacing: 1px;
     }
+<div class="project">
+  <h3>🧠 Notion Website</h3>
+  <p>
+    All projects, Mission and direction of SKC Data Concepts — helping people use AI and digital tools for clarity, calm, and capability.
+  </p>
+  <p>
+    🔗 <a href="https://tame-eyelash-200.notion.site/Helping-ordinary-people-use-AI-digital-tools-for-clarity-calm-and-capability-290e5c60ebb7806ca335e5eaac1fe0c8" target="_blank">
+      Visit Notion Concept Page
+    </a>
+  </p>
+</div>
+    
     .project {
       background: #141414;
       border: 1px solid #222;
@@ -69,55 +81,46 @@
   </style>
 </head>
 
-<body>
-  <header>
-    <h1>Shana Campbell</h1>
-    <p>Digital Creator • Web Portfolio • SKC Data Concepts</p>
-  </header>
-
-  <section id="about">
-    <h2>About Me</h2>
-    <p>
-      I’m a creative digital thinker with a passion for clean, purposeful design
-      and accessible web experiences. My background blends coding, data,
-      and digital communication — bringing clarity to complex ideas through
-      simple, intuitive visuals.
-    </p>
-  </section>
 
   <section id="projects">
     <h2>Projects</h2>
 
-    <div class="project">
-      <h3>SKC Portal</h3>
-      <p>
-        A live frontend concept built and hosted via Bolt, exploring the bridge
-        between data and digital therapy concepts. Demonstrates deployment skills,
-        web design, and creative application of modern web frameworks.
-      </p>
-      <p>
-        <strong>Tech:</strong> HTML, CSS, JavaScript
-      </p>
-      <p>
-        🔗 <a href="https://skc-portal-mv2w.bolt.host/" target="_blank">Visit SKC Portal</a>
-      </p>
-    </div>
-  </section>
+    
+<div class="project">
+  <h3>🔐 SKC Data Concepts Login Project Tracker</h3>
+  <p>
+    A conceptual digital portal exploring the link between data, design, and work space technology.
+  </p>
+  <p>
+    <strong>Tech:</strong> HTML, CSS, JavaScript
+  </p>
+  <p>
+    🔗 <a href="https://skcdcprojecttrack.bolt.host/" target="_blank">Visit SKC Login Portal</a>
+  </p>
+</div>
+
+<div class="project">
+  <h3>✨ Holy Anchor Portal</h3>
+  <p>
+    A spiritual realignment experience guiding users through a 6-step reflection process.
+    Built to demonstrate creative coding with sacred design.
+  </p>
+  <p>
+    <strong>Tech:</strong> HTML, CSS, JavaScript
+  </p>
+  <p>
+    🔗 <a href="https://holy-anchor-portal.vercel.app/" target="_blank">Visit Holy Anchor Portal</a>
+  </p>
+</div>
+
+
+
+
+
+
 
   <footer>
     <p>© 2025 Shana Campbell | SKC Data Concepts</p>
     <p>Connect: <a href="mailto:shanacampbell93@gmail.com" style="color: cyan;"></a></p>
   </footer>
 
-<section id="portfolio">
-  <h2>Projects</h2>
-  <div class="project-card">
-    <img src="assets/innerlight-thumb.png" alt="InnerLight Portal preview" />
-    <h3>InnerLight Portal</h3>
-    <p>A full-stack creative therapy portal built with React, Node, and MongoDB.</p>
-    <a href="projects/innerlight-portal/" class="btn">View Demo</a>
-    <a href="https://github.com/skc-data-data-concepts/innerlight-portal" class="btn secondary">Source Code</a>
-  </div>
-</section>
-
-</html>
