@@ -108,11 +108,16 @@
     <p>© 2025 Shana Campbell | SKC Data Concepts</p>
     <p>Connect: <a href="mailto:shanacampbell93@gmail.com" style="color: cyan;"></a></p>
   </footer>
-</body>
-</html>html-index/
-├── index.html
-├── style.css
-├── projects/
-│   └── ...other projects
-└── assets/
 
+<section id="portfolio">
+  <h2>Projects</h2>
+  <div class="project-card">
+    <img src="assets/innerlight-thumb.png" alt="InnerLight Portal preview" />
+    <h3>InnerLight Portal</h3>
+    <p>A full-stack creative therapy portal built with React, Node, and MongoDB.</p>
+    <a href="projects/innerlight-portal/" class="btn">View Demo</a>
+    <a href="https://github.com/skc-data-data-concepts/innerlight-portal" class="btn secondary">Source Code</a>
+  </div>
+</section>
+
+</html>
