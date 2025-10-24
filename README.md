@@ -69,54 +69,6 @@
   </style>
 </head>
 
-
-  <section id="projects">
-    <h2>Projects</h2>
-<div class="project">
-  <h3>🧠 Notion Website</h3>
-  <p>
-    All projects, Mission and direction of SKC Data Concepts — helping people use AI and digital tools for clarity, calm, and capability.
-  </p>
-  <p>
-    🔗 <a href="https://tame-eyelash-200.notion.site/Helping-ordinary-people-use-AI-digital-tools-for-clarity-calm-and-capability-290e5c60ebb7806ca335e5eaac1fe0c8" target="_blank">
-      Visit Notion Concept Page
-    </a>
-  </p>
-</div>
-    
-<div class="project">
-  <h3>🔐 SKC Data Concepts Login Project Tracker</h3>
-  <p>
-    A conceptual digital portal exploring the link between data, design, and work space technology.
-  </p>
-  <p>
-    <strong>Tech:</strong> HTML, CSS, JavaScript
-  </p>
-  <p>
-    🔗 <a href="https://skcdcprojecttrack.bolt.host/" target="_blank">Visit SKC Login Portal</a>
-  </p>
-</div>
-
-<div class="project">
-  <h3>✨ Holy Anchor Portal</h3>
-  <p>
-    A spiritual realignment experience guiding users through a 6-step reflection process.
-    Built to demonstrate creative coding with sacred design.
-  </p>
-  <p>
-    <strong>Tech:</strong> HTML, CSS, JavaScript
-  </p>
-  <p>
-    🔗 <a href="https://holy-anchor-portal.vercel.app/" target="_blank">Visit Holy Anchor Portal</a>
-  </p>
-</div>
-
-
-
-
-
-
-
   <footer>
     <p>© 2025 Shana Campbell | SKC Data Concepts</p>
     <p>Connect: <a href="mailto:shanacampbell93@gmail.com" style="color: cyan;"></a></p>
